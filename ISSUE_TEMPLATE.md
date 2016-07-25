@@ -9,12 +9,14 @@
   - Provide a link to where the problem occurs (if applicable)
 
   - Attach screenshots and logs if possible/applicable
+  
+  - Remove template lines which do not apply to your issue/feature request
 -->
 
 ### Basic information
 * Platform: `iOS` | `Android` | `Web`
-* Version: `...` <!-- remove this line, if not applicable -->
-* System/Browser: `...` <!-- remove this line, if not applicable -->
+* Version: `...` 
+* System/Browser: `...`
 
 ### Steps to reproduce behavior
 
@@ -33,4 +35,5 @@
 ### Additional information
 
 ... 
+
 <!-- screenshots, system logs etc. -->
