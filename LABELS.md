@@ -5,6 +5,8 @@
 * Try to keep it one assigne per issue, that way its never a discussion on who owns it and needs to take actions on it.
 * Try to move issues back to internal systems and add the tag `info-tracking` when done also make sure to reference this issue correctly back from that issue.
 * Always reference from `system` -> `this repo` never the other way around
+* An issuse MUST have ONE type, At least ONE assigne and At lest ONE system tag
+
 
 ## Type
 
