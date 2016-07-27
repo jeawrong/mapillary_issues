@@ -7,7 +7,6 @@
 * Always reference from `system` -> `this repo` never the other way around
 * An issuse MUST have ONE type, At least ONE assigne and At lest ONE system tag
 
-
 ## Type
 
 An issue can only have one type. Its one of the following.
