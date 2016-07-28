@@ -3,7 +3,7 @@ Mapillary Issues
 Public repository for reporting Mapillary issues.
 
 ## Got a feature request?
-Let's discuss it at [forum.mapillary.com](http://forum.mapillary.com)!
+Let's discuss it at [forum.mapillary.com](https://forum.mapillary.com)!
 
 
 ## Got something to report?
