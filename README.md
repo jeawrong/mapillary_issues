@@ -1,10 +1,8 @@
 Mapillary Issues
 ================
-Public repository for reporting Mapillary issues.
+mapillary_issues is no longer an active repository.
+Got a feature request or feedback?
+Let's discuss it at http://forum.mapillary.com
 
-## Got a feature request?
-Let's discuss it at [forum.mapillary.com](https://forum.mapillary.com)!
-
-
-## Got something to report?
-Report bugs or other problems [here](https://github.com/mapillary/mapillary_issues/issues "Issues").
+Got something to report?
+Report bugs or other problems to support@mapillary.com
